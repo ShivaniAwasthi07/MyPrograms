@@ -35,6 +35,6 @@ int main()
 
     }
     else
-        cout<<"Anagram";
+        cout<<"Not Anagram";
     return 0;
 }
